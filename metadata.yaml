@@ -1,0 +1,41 @@
+_repo: Maria-Dundee-eli-Puolalaiset-TukholmassaHistoriallinen-novelli_29267
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lempiranta, Arvo
+    aliases:
+    - Arvo L:nd
+    - Liljestrand, Arvo
+    - L:nd, Arvo
+    birthdate: 1860
+    deathdate: 1914
+    gutenberg_agent_id: '8156'
+    url: http://www.gutenberg.org/2009/agents/8156
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mellin, G. H. (Gustaf Henrik)
+    aliases:
+    - Mellin, Gustaf Henrik
+    - Melin, G. H. (Gustaf Henrik)
+    birthdate: 1803
+    deathdate: 1876
+    gutenberg_agent_id: '9455'
+    url: http://www.gutenberg.org/2009/agents/9455
+description: ''
+gutenberg_issued: '2009-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29267'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcsh 'Historical fiction'
+- !lcc 'PT'
+title: 'Maria Dundee eli Puolalaiset Tukholmassa: Historiallinen novelli'
+url: http://www.gutenberg.org/ebooks/29267
